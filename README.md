@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vava-suresh
+- 👋 Hi, I’m @Albert T Alex
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning compuer engineering
 - 💞️ I’m looking to collaborate on 
